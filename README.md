@@ -1,8 +1,24 @@
 # GoFood
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Gaurang-Pandey/GoFood/actions)  
+[![GitHub issues](https://img.shields.io/github/issues/Gaurang-Pandey/GoFood)](https://github.com/Gaurang-Pandey/GoFood/issues)
+
 ## Overview
 
 GoFood is a dynamic and user-friendly food delivery system built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform enables users to browse through a variety of restaurants, select meals, customize their orders, and have their favorite food delivered to their doorstep.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 ## Features
 
