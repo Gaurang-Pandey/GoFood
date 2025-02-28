@@ -11,12 +11,10 @@ GoFood is a dynamic and user-friendly food delivery system built using the MERN 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Features
 
