@@ -16,11 +16,15 @@ GoFood is a dynamic and user-friendly food delivery system built using the MERN 
 
 ## Technologies Used
 
-- **Frontend**: React.js, Redux for state management, HTML5, CSS3
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **Real-Time Updates**: WebSockets for live order tracking
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white)
+- ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white)
 
 ## Installation
 
