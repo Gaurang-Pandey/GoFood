@@ -54,18 +54,18 @@ To run this project locally, follow these steps:
    ```
 5. **Start the development servers**:
 
-• Backend:
+   • Backend:
 
-   ```bash
-   cd backend
-   npm start
-   ```
-• Frontend:
-
-   ```bash
-   cd ../src
-   npm start
-   ```
+      ```bash
+      cd backend
+      npm start
+      ```
+   • Frontend:
+   
+      ```bash
+      cd ../src
+      npm start
+      ```
 
 The frontend will typically run on http://localhost:3000/ and the backend on http://localhost:5000/.
 
