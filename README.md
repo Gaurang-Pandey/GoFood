@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 
       ```bash
       cd backend
-      npm start
+      node index.js
       ```
    • Frontend:
    
