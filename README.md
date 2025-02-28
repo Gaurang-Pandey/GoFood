@@ -1,37 +1,33 @@
 # GoFood
 
-GoFood is a full-stack food ordering application that allows users to browse menus, place orders, and track order statuses in real time. This project is designed to offer an intuitive and responsive interface for both customers and administrators.
+## Overview
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+GoFood is a dynamic and user-friendly food delivery system built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The platform enables users to browse through a variety of restaurants, select meals, customize their orders, and have their favorite food delivered to their doorstep.
 
 ## Features
 
-- **Browse Menus:** View a variety of restaurants and their menus.
-- **Order Management:** Add items to your cart, place orders, and receive real-time updates.
-- **User Authentication:** Secure sign-up and login functionality.
-- **Responsive Design:** Optimized for both mobile and desktop devices.
-- **Admin Dashboard:** (If applicable) Manage restaurants, orders, and user data.
+- **User Authentication**: Secure login and registration using JWT for authentication.
+- **Restaurant Browsing**: Explore a wide range of restaurants and cuisines.
+- **Order Customization**: Customize your meals with various options and add-ons.
+- **Cart Management**: Add, remove, and modify items in your cart before checkout.
+- **Order Tracking**: Real-time updates on order status from preparation to delivery.
+- **Order History**: View past orders and reorder your favorites with ease.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, and React (or your preferred framework)
-- **Backend:** Node.js and Express.js
-- **Database:** (e.g., MongoDB, PostgreSQL – update as needed)
-- **Other Dependencies:** Refer to the `package.json` files for a complete list of libraries and tools.
+- **Frontend**: React.js, Redux for state management, HTML5, CSS3
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JSON Web Tokens (JWT)
+- **Real-Time Updates**: WebSockets for live order tracking
 
 ## Installation
 
-Follow these steps to set up the project locally:
+To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/Gaurang-Pandey/GoFood.git
    cd GoFood
