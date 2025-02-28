@@ -45,14 +45,15 @@ To run this project locally, follow these steps:
    npm install
    ```
 4. **Set up environment variables**:
-• Create a .env file in the backend directory with the following content:
-
-   ```env
-   PORT=5000
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret_key
-   ```
-5. **Start the development servers**:
+   
+   • Create a .env file in the backend directory with the following content:
+   
+      ```env
+      PORT=5000
+      MONGODB_URI=your_mongodb_connection_string
+      JWT_SECRET=your_jwt_secret_key
+      ```
+6. **Start the development servers**:
 
    • Backend:
 
