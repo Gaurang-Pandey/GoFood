@@ -1,7 +1,5 @@
 # GoFood
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Gaurang-Pandey/GoFood/actions)  
+ 
 [![GitHub issues](https://img.shields.io/github/issues/Gaurang-Pandey/GoFood)](https://github.com/Gaurang-Pandey/GoFood/issues)
 
 ## Overview
@@ -89,6 +87,10 @@ To run this project locally, follow these steps:
       ```
 
 The frontend will typically run on http://localhost:3000/ and the backend on http://localhost:5000/.
+
+## Usage
+
+After installing, open your browser and navigate to http://localhost:3000/ to explore GoFood. Follow the on-screen instructions to register, log in, and start ordering.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
